@@ -1,0 +1,17 @@
+MIDlet-Name: QuickApps
+MIDlet-Version: 1.0
+MIDlet-Vendor: Shuswap
+MIDlet-Jar-URL: QuickApps.jar
+MIDlet-Jar-Size: 19078
+MIDlet-Description: An app repository for OS 7.1
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Quick Apps,quickapps.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: QuickApps.cod
+RIM-COD-Size: 9416
+RIM-COD-Creation-Time: 1552765909
+RIM-COD-Module-Name: QuickApps
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_browser
+RIM-COD-SHA1: c0 15 0a 1f de 48 56 6d 20 82 98 3d 4a d5 73 09 f8 bb 21 4e
