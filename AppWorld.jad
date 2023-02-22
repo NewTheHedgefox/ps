@@ -1,0 +1,28 @@
+MIDlet-Name: BlackBerry World
+MIDlet-Version: 4.3.0.32
+MIDlet-Vendor: Research In Motion Limited
+MIDlet-Description: قَرٌوِبِ مُسّتِرً حٌمّوُدَيِ/أَذّڳٌأًرَ/أٌسًلٌأٌمٌيًأِتّ/أًنَأٌشُيّدٌ/بُرُأًمًجٌ/تِحَدُيٌثِأُتٌ وَحِصٌرّيٌأٌتً/وَڳُلُ أُلِجٌدِيّدِعُلُى بَنٌڳًوٌدّيً pin:2A0ACDDC
+RIM-COD-URL-1: net_rim_bb_appworld.cod
+RIM-COD-URL-2: net_rim_bb_appworld_balance_dependency.cod
+RIM-COD-URL-3: net_rim_bb_appworld_bbm_proxy.cod
+RIM-COD-URL-4: net_rim_bb_appworld_eula.cod
+RIM-COD-URL-5: net_rim_bb_appworld_img_dither.cod
+RIM-COD-URL-6: net_rim_bb_appworld_lib.cod
+RIM-COD-URL-7: net_rim_bb_appworld_resource_en.cod
+RIM-COD-URL-8: net_rim_bb_appworld_updater.cod
+RIM-COD-URL-9: net_rim_bb_appworld_usb.cod
+RIM-COD-URL-10: net_rim_bb_attachment.cod
+RIM-COD-URL-11: net_rim_bb_payment_daemon.cod
+RIM-COD-URL-12: net_rim_bb_payment_lib.cod
+RIM-COD-Size-1: 7896
+RIM-COD-Size-2: 3748
+RIM-COD-Size-3: 9264
+RIM-COD-Size-4: 12692
+RIM-COD-Size-5: 967716
+RIM-COD-Size-6: 1371610
+RIM-COD-Size-7: 17572
+RIM-COD-Size-8: 3608
+RIM-COD-Size-9: 24596
+RIM-COD-Size-10: 5252
+RIM-COD-Size-11: 487706
+RIM-COD-Size-12: 216662
